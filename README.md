@@ -4,7 +4,6 @@
  <p align="center">
   IBM Professional Certificate
   <br />
-  <a href=https://github.com/BinariesGoalls/IBM-Data-Engineering-Professional-Certificate>Explore the repository»</strong></a>
   <br />
   <br />
  </p>
